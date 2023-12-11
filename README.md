@@ -31,4 +31,4 @@
   border-radius: 3px;
   background-color: #1e2227;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-  Estou dedicando meu tempo ao estudo de Java, com um foco específico no framework Spring. Estou buscando aprofundar meu conhecimento e aplicá-lo de forma prática em projetos futuros</p>
+"Estou imerso no estudo intensivo de Java, concentrando meus esforços no aprimoramento do meu domínio, especialmente no framework Spring. Estou determinado a aplicar esses conhecimentos de forma assertiva e conquistar excelência em projetos desafiadores. O foco é a chave, e estou comprometido em alcançar resultados notáveis."</p>
